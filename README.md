@@ -10,10 +10,12 @@ Provide a specific set of your parameters for your password to meet and select t
 ## Installation
 
 Visit the site:
+https://coulterkyle.github.io/employee-password-gen/
 
 ## Usage
 
 Visit the Site:
+https://coulterkyle.github.io/employee-password-gen/
 
 Upon arrival you will be prompted with various prompts that allow you to customize your password.
 
