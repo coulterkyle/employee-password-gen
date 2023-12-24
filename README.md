@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was intended to demonstrate our ability to use Javascript and add functionality to my websites. This exercise allowed me to use various Javascript principals and logic methods to satisfy the goal of making a useable employee password generator. 
+This project was intended to demonstrate my ability to use Javascript and add functionality to websites. This exercise allowed me to use various Javascript principals and logic methods to satisfy the goal of making a useable employee password generator. 
 
 
 ## Installation
