@@ -22,6 +22,13 @@ function writePassword() {
     const numericRequest = confirm ("Would you like your password to include numbers?");
     const symbolsRequest = confirm ("Would you like your password to include special characters?");
 
+    //Conditional statement that ensures user uses at least on character type 
+    if (upperCaseRequest === false && lowerCaseRequest === false && numericRequest === false 
+      && symbolsRequest === false) {
+      alert("Your password must include at least one character type!");
+      return generatePassword (); 
+      };
+
     //Names the variables which are to be possible in charSet
     const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const lowerCase = "abcdefghijklmnopqrstuvwxyz";
