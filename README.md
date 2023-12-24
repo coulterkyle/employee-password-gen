@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a specific set of your parameters for your password to meet and select the "generate passowrd" button. Your password should be displayed in the "secure your password box"
-
-- This project was very challenging and requried a lot of study to accomplish. it taught us how you use our new javascript skills to create an app that was more than just a brochure, but actually provided a service. 
+This project was intended to demonstrate our ability to use Javascript and add functionality to my websites. This exercise allowed me to use various Javascript principals and logic methods to satisfy the goal of making a useable employee password generator. 
 
 
 ## Installation
@@ -17,17 +15,23 @@ https://coulterkyle.github.io/employee-password-gen/
 Visit the Site:
 https://coulterkyle.github.io/employee-password-gen/
 
-Upon arrival you will be prompted with various prompts that allow you to customize your password.
+Upon arrival you will be prompted with an alert that tells you how to generate your password.
 
-Assets/prompts.png
+![Alt text](/Assets/Welcome-Alert.png "Welcome Alert")
 
-After setting your parameters, click the "generate password" button
+Next, click the "Generate Password" button to get started.
 
-Assets/generate-password.png
+![Alt text](/Assets/generate-password.png "Generate Password Button")
 
-Finally, your new password will be displayed
+You will then be greeted by a series of prompts that allow you to specify the length of the password, as well as, what characters you would like to be included in the password: uppercase letters, lowercase letters, numbers and symbols
 
-Assets/password-result.png
+![Alt text](/Assets/prompts.png "Prompt of password length")
+
+![Alt text](/Assets/prompts2.png "Prompt of character selection")
+
+After specifying the parameters for your password - your new password will display in the "secure your password" box!
+
+![Alt text](/Assets/password-result.png "Password Result")
 
 
 ## Credits
