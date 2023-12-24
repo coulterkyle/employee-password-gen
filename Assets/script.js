@@ -1,6 +1,9 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
+//Alert welcomes you to the page and describes how to begin
+alert("Welcome to the Employee Password Generator! Click the 'Generate Password' button to begin!")
+
 // Write password to the #password input
 function writePassword() {
 
